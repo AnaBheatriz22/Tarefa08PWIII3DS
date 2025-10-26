@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background: linear-gradient(-45deg, #ffb6c1, #ffe4e1, #d8bfd8, #98fb98);
+  background-size: 400% 400%;
+  animation: gradientMove 30s ease infinite;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@keyframes gradientMove {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.foto-canto {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  width: 300px; 
+  height: auto;
+ 
+}
+
+p{
+  font-size: 1.2rem;
+  color: #f03f6b;
+  text-shadow: 1px 1px 2px #fff;
+  margin: 20px; 
+  background: rgba(255, 255, 255, 0.7);
+  padding: 15px;
+  border-radius: 10px;
+}
+
+h1{
+  color: #366736;
+  border-radius: black;
+}
+
