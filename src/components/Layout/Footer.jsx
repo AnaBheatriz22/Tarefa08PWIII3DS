@@ -1,7 +1,7 @@
 function Footer() {
     return (
          <footer>
-        <p>© 2025 Minha Empresa. Todos os direitos reservados.</p>
+        <h2>© 2025 Empresa Ana Bheatriz. Todos os direitos reservados.</h2>
          </footer>  
     );
 }

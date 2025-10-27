@@ -46,5 +46,13 @@ p{
 h1{
   color: #366736;
   border-radius: black;
+  background: rgba(255, 255, 255, 0.7);
 }
 
+h2{
+ color: #366736;
+  border-color: black;
+  background: rgba(255, 255, 255, 0.7);
+  font-size: 16px;
+  border-radius: 10px;
+}
