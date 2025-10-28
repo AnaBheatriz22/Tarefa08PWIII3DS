@@ -8,7 +8,8 @@ function Home(){
             <h1>Home</h1>
             <BannerRotativo/>
             <p>Bem-vindo à nossa página inicial!</p>
-            <img src="/public/moranguinho.png" alt="Moranguinho" className="foto-canto" />
+            <img src="/public/blue.png" alt="Moranguinho" className="foto-canto" />
+            <img src="/public/bia.png" alt= "Moranguinho Segurando Livro" className="bia"></img>
 
         </div>
     );

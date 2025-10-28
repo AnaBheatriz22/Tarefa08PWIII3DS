@@ -2,10 +2,21 @@
     list-style: none;
     display:  flex;
     align-items: center;  
+
 }
 
 .item{
     margin-right: 1em;
     justify-content: center; 
     align-items: center;    
+    font-size: 1.2rem;
+    
+    
+    margin: 20px; 
+    background: rgba(0, 205, 65, 0.7);
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
 }

@@ -16,3 +16,8 @@
   color: #d12a6a;
   margin-bottom: 1em;
 }
+.p{
+  text-align: left;
+  display: block;
+  margin-left: 0;
+}

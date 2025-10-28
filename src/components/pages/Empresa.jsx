@@ -15,7 +15,6 @@
       <p className="encerramento">
         Com a ajuda de ventanias de doces nuvens e grãos de brilho vindos do firmamento, o sonho tomou forma e virou realidade. E desde hoje, os encantos fluem e espalham a vida. Moranguinho convida você a conhecer esse jardim encantado, onde tudo é doçura e esperança!
       </p>
-      <img src="/public/moranguinho11.png" alt="MoranguinhoLendo" className="foto-canto" />
     </div>
   );
 }

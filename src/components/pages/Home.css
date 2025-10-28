@@ -33,6 +33,14 @@ body {
  
 }
 
+.bia {
+  position: fixed;
+  bottom: 10px;
+  left: 10px;
+  width: 300px; 
+  height: auto;
+}
+
 p{
   font-size: 1.2rem;
   color: #f03f6b;
@@ -41,7 +49,11 @@ p{
   background: rgba(255, 255, 255, 0.7);
   padding: 15px;
   border-radius: 10px;
+ display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
 }
+
 
 h1{
   color: #366736;
